@@ -1,0 +1,8 @@
+{
+  "name": "AgentRouter AI Chat Hub",
+  "description": "A premium, production-grade AI Chat application powered by AgentRouter with secure server-side key storage, multiple models, and sleek responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
